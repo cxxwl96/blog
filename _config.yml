@@ -105,3 +105,4 @@ deploy:
   type: git
   repo: https://github.com/cxxwl96/blog.git
   branch: master
+  token: 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
