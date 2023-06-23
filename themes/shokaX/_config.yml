@@ -1,6 +1,6 @@
 alternate: cxxwl96 # 站点大标题
 
-statics: "/" # 静态文件根目录
+statics: "/blog" # 静态文件根目录
 assets: "assets"
 css: "css"
 js: "js"
